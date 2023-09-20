@@ -1,0 +1,100 @@
+,albums,albums,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,valence,tempo,types,duration_ms,time_signature,Labels
+1,The Fever (Aye Aye),The Money Store,0.432,0.94,10,-4.099,0,0.374,0.159,0.0,0.225,80.084,audio_features,186973,4,1
+2,Lost Boys,The Money Store,0.464,0.949,2,-2.454,1,0.336,0.003,0.000113,0.374,77.121,audio_features,186320,4,1
+3,Blackjack,The Money Store,0.532,0.855,4,-3.014,0,0.301,0.259,0.0,0.534,136.902,audio_features,142000,4,1
+4,Hustle Bones,The Money Store,0.6,0.982,4,-2.996,0,0.201,0.104,0.0,0.277,110.015,audio_features,192360,4,1
+5,I've Seen Footage,The Money Store,0.603,0.944,11,-3.626,0,0.347,0.0481,0.0,0.418,130.035,audio_features,202853,4,1
+6,Double Helix,The Money Store,0.539,0.872,7,-5.59,1,0.324,0.146,0.0,0.474,155.255,audio_features,160093,4,1
+7,System Blower,The Money Store,0.747,0.788,11,-3.976,0,0.3,0.0292,0.0,0.837,140.034,audio_features,228093,4,1
+8,The Cage,The Money Store,0.385,0.931,0,-3.931,1,0.225,0.00415,0.0,0.455,140.939,audio_features,211093,4,0
+9,Punk Weight,The Money Store,0.368,0.95,2,-4.521,1,0.329,0.0301,4.59E-06,0.616,130.568,audio_features,204240,4,0
+10,Fuck That,The Money Store,0.56,0.945,1,-2.768,1,0.328,0.0509,0.0,0.344,82.657,audio_features,144867,4,0
+11,Bitch Please,The Money Store,0.441,0.799,11,-3.407,0,0.192,0.0166,0.0,0.456,116.21,audio_features,176000,4,0
+12,Hacker,The Money Store,0.681,0.88,9,-3.895,1,0.227,0.0567,0.0,0.38,124.885,audio_features,275520,4,1
+13,Come Up And Get Me,No Love Deep Web,0.525,0.645,1,-4.638,1,0.0615,0.00175,5.94E-05,0.117,95.225,audio_features,252973,5,0
+14,Lil Boy,No Love Deep Web,0.637,0.783,1,-4.359,1,0.319,0.00267,0.0,0.273,146.702,audio_features,226387,4,0
+15,No Love,No Love Deep Web,0.547,0.884,8,-1.452,1,0.366,0.0221,1.33E-06,0.608,146.75,audio_features,303693,3,0
+16,Black Dice,No Love Deep Web,0.582,0.716,7,-4.712,1,0.263,0.00169,0.0,0.598,147.866,audio_features,206960,4,0
+17,World Of Dogs,No Love Deep Web,0.355,0.782,0,-4.614,1,0.223,0.000212,0.00621,0.58,146.516,audio_features,162427,4,0
+18,Lock Your Doors,No Love Deep Web,0.314,0.961,1,-3.725,1,0.333,0.0457,0.0,0.417,139.632,audio_features,232160,4,0
+19,Whammy,No Love Deep Web,0.69,0.654,7,-6.143,1,0.186,0.000378,5.15E-06,0.668,89.084,audio_features,189400,4,0
+20,Hunger Games,No Love Deep Web,0.65,0.784,6,-3.689,1,0.286,0.00408,0.0,0.588,100.106,audio_features,159187,5,0
+21,Deep Web,No Love Deep Web,0.462,0.812,0,-3.252,1,0.162,0.0326,0.0,0.386,141.167,audio_features,138253,4,0
+22,Stockton,No Love Deep Web,0.857,0.673,1,-3.914,0,0.153,0.00153,0.0,0.0575,124.01,audio_features,197267,4,0
+23,Pop,No Love Deep Web,0.528,0.846,1,-4.217,1,0.155,0.0294,5.66E-05,0.283,110.092,audio_features,173507,3,0
+24,Bass Rattle Stars Out The Sky,No Love Deep Web,0.313,0.848,2,-3.083,1,0.331,0.000643,0.0,0.285,174.322,audio_features,147200,4,0
+25,Artificial Death In The West,No Love Deep Web,0.602,0.928,2,-4.376,1,0.0504,0.00148,0.00126,0.477,141.969,audio_features,359307,4,0
+26,You Might Think He Loves You for Your Money but I Know What He Really Loves You for It's Your Brand New Leopard Skin Pillbox Hat,Government Plates,0.317,0.853,7,-2.751,1,0.186,0.00187,0.000702,0.487,103.37,audio_features,161133,4,0
+27,Anne Bonny,Government Plates,0.512,0.85,6,-3.287,0,0.422,0.0177,0.0,0.63,90.397,audio_features,207386,3,0
+28,Two Heavens,Government Plates,0.652,0.85,1,-5.919,1,0.283,0.0353,0.0292,0.366,108.83,audio_features,182004,5,0
+29,This Is Violence Now (Don't Get Me Wrong),Government Plates,0.673,0.956,1,-4.296,1,0.358,0.00412,0.00236,0.406,160.546,audio_features,157732,4,0
+30,Birds,Government Plates,0.483,0.732,0,-4.307,1,0.345,0.68,0.000161,0.21,124.008,audio_features,277863,4,0
+31,Feels Like a Wheel,Government Plates,0.414,0.908,9,-3.96,1,0.286,0.0167,0.0015,0.4,77.108,audio_features,141714,4,0
+32,I'm Overflow,Government Plates,0.52,0.882,1,-5.009,1,0.295,0.0591,0.0,0.593,84.96,audio_features,189004,4,0
+33,Big House,Government Plates,0.637,0.78,4,-6.034,0,0.19,0.000294,0.271,0.199,172.741,audio_features,138639,3,0
+34,Government Plates,Government Plates,0.324,0.968,2,-4.882,1,0.268,0.0047,0.079,0.202,111.679,audio_features,162025,3,0
+35,Bootleg (Don't Need Your Help),Government Plates,0.436,0.782,0,-5.109,1,0.217,0.0787,0.000381,0.734,76.275,audio_features,126016,4,0
+36,Whatever I Want (Fuck Who's Watching),Government Plates,0.223,0.941,2,-2.935,1,0.204,0.0442,2.19E-05,0.104,130.753,audio_features,397749,3,0
+37,Runway J,Fashion Week,0.492,0.885,2,-5.262,1,0.156,0.000546,0.189,0.16,169.787,audio_features,249661,4,0
+38,Runway E,Fashion Week,0.39,0.882,8,-5.212,1,0.0435,0.000318,0.747,0.113,117.004,audio_features,194872,4,0
+39,Runway N,Fashion Week,0.215,0.993,10,-1.24,0,0.541,0.168,0.0383,0.554,191.497,audio_features,162719,3,0
+40,Runway n (2),Fashion Week,0.413,0.949,10,-3.279,1,0.0607,1.06E-06,0.81,0.238,145.338,audio_features,181074,4,0
+41,Runway Y,Fashion Week,0.634,0.818,9,-4.926,1,0.051,0.0263,0.0359,0.526,129.93,audio_features,241784,4,0
+42,Runway D,Fashion Week,0.721,0.834,10,-5.547,0,0.0366,0.00268,0.762,0.184,123.991,audio_features,283078,4,0
+43,Runway E (2),Fashion Week,0.746,0.956,1,-5.317,1,0.0395,0.00118,0.542,0.204,118.81,audio_features,205350,4,0
+44,Runway A,Fashion Week,0.734,0.786,7,-6.607,1,0.0399,0.000482,0.935,0.247,127.018,audio_features,217801,4,0
+45,Runway T,Fashion Week,0.419,0.89,11,-4.252,1,0.295,0.00124,5.42E-06,0.268,113.048,audio_features,156133,4,0
+46,Runway H,Fashion Week,0.529,0.565,1,-3.128,1,0.039,0.00235,0.917,0.118,82.513,audio_features,269273,4,0
+47,Runway W,Fashion Week,0.576,0.899,11,-3.723,1,0.0428,0.0383,0.219,0.235,80.631,audio_features,214982,4,0
+48,Runway H (2),Fashion Week,0.433,0.948,2,-3.495,1,0.281,0.0265,0.314,0.294,153.265,audio_features,226976,3,0
+49,Runway E (3),Fashion Week,0.643,0.937,1,-7.74,1,0.175,0.00907,0.708,0.501,132.059,audio_features,141818,3,0
+50,Runway n (3),Fashion Week,0.506,0.977,10,-5.55,0,0.0402,0.00037,0.897,0.151,129.278,audio_features,121721,4,0
+51,Up My Sleeves,The Powers That B,0.248,0.849,0,-2.508,1,0.31,0.086,0.0,0.234,72.745,audio_features,316932,4,0
+52,Billy Not Really,The Powers That B,0.304,0.923,5,-4.005,0,0.43,0.129,0.0,0.468,150.795,audio_features,228782,4,0
+53,Black Quarterback,The Powers That B,0.448,0.914,1,-2.62,1,0.394,0.0731,0.0,0.496,153.841,audio_features,179248,4,0
+54,Say Hey Kid,The Powers That B,0.53,0.763,4,-4.421,1,0.275,0.0461,0.0,0.682,101.078,audio_features,207299,4,0
+55,Have A Sad Cum BB,The Powers That B,0.376,0.714,1,-3.591,1,0.189,0.0393,0.000603,0.298,152.587,audio_features,219429,4,0
+56,Fuck Me Out,The Powers That B,0.445,0.844,1,-5.344,1,0.43,0.00795,0.0,0.503,78.615,audio_features,200112,4,0
+57,Voila,The Powers That B,0.64,0.793,11,-3.619,0,0.419,0.0368,1.3E-05,0.732,77.081,audio_features,208899,4,0
+58,Big Dipper,The Powers That B,0.556,0.617,1,-4.933,1,0.278,0.0238,6.6E-06,0.307,77.611,audio_features,327513,4,0
+59,I Break Mirrors With My Face In The United States,The Powers That B,0.447,0.997,0,-2.348,1,0.325,0.163,0.0,0.105,134.039,audio_features,160884,4,1
+60,Inanimate Sensation,The Powers That B,0.384,0.928,2,-2.744,1,0.289,0.000411,0.0,0.152,118.938,audio_features,364031,4,1
+61,Turned Off,The Powers That B,0.249,0.992,2,-2.627,1,0.304,0.223,0.0,0.105,124.465,audio_features,277826,4,1
+62,Why A Bitch Gotta Lie,The Powers That B,0.3,0.96,0,-4.79,1,0.176,0.0495,1.49E-05,0.153,134.831,audio_features,280056,4,1
+63,Pss Pss,The Powers That B,0.641,0.665,1,-5.094,1,0.144,0.0207,1.16E-06,0.247,118.747,audio_features,273797,4,1
+64,The Powers That B,The Powers That B,0.563,0.75,1,-3.093,1,0.173,0.0717,0.0,0.205,99.866,audio_features,332138,4,1
+65,Beyond Alive,The Powers That B,0.315,0.988,2,-2.612,1,0.229,0.166,5.58E-06,0.133,139.069,audio_features,367872,4,0
+66,Centuries Of Damn,The Powers That B,0.339,0.94,0,-3.062,1,0.127,0.233,0.0,0.219,107.416,audio_features,332243,4,0
+67,On GP,The Powers That B,0.283,0.946,0,-3.05,1,0.0787,0.158,2.93E-05,0.279,132.359,audio_features,367569,4,1
+68,Death Grips 2.0,The Powers That B,0.238,0.965,7,-6.579,1,0.434,9.54E-06,0.156,0.153,135.466,audio_features,199677,5,0
+69,Giving Bad People Good Ideas,Bottomless Pit,0.298,0.981,5,-2.483,1,0.359,0.00741,0.0,0.0725,92.496,audio_features,187519,4,1
+70,Hot Head,Bottomless Pit,0.408,0.97,1,-5.142,1,0.384,0.00963,0.0,0.384,126.361,audio_features,258395,4,1
+71,Spikes,Bottomless Pit,0.339,0.922,8,-4.3,1,0.561,0.111,0.0,0.343,179.909,audio_features,185404,4,1
+72,Warping,Bottomless Pit,0.54,0.909,1,-4.49,1,0.071,0.049,0.0,0.494,107.025,audio_features,174279,4,0
+73,Eh,Bottomless Pit,0.718,0.892,4,-6.906,0,0.288,0.161,2.07E-06,0.632,151.904,audio_features,172677,4,0
+74,Bubbles Buried In This Jungle,Bottomless Pit,0.583,0.883,11,-3.702,0,0.235,0.00227,0.0,0.669,124.872,audio_features,159723,4,1
+75,Trash,Bottomless Pit,0.362,0.872,7,-4.659,1,0.315,0.00378,7.73E-06,0.331,149.569,audio_features,171688,4,0
+76,Houdini,Bottomless Pit,0.426,0.924,1,-4.202,1,0.0694,0.0011,0.0,0.513,155.945,audio_features,164315,4,1
+77,BB Poison,Bottomless Pit,0.502,0.897,1,-4.951,1,0.327,0.000414,6.63E-06,0.263,131.749,audio_features,185513,4,1
+78,Three Bedrooms In A Good Neighborhood,Bottomless Pit,0.421,0.961,8,-3.205,0,0.478,0.0156,0.0,0.71,176.812,audio_features,183187,4,1
+79,Ring A Bell,Bottomless Pit,0.641,0.977,6,-4.487,0,0.124,0.0854,0.0,0.313,107.038,audio_features,146046,4,1
+80,80808,Bottomless Pit,0.55,0.917,4,-4.597,0,0.293,0.00133,1.53E-06,0.443,161.034,audio_features,196592,4,1
+81,Bottomless Pit,Bottomless Pit,0.356,0.991,2,-4.024,1,0.184,0.00637,0.00133,0.0549,95.235,audio_features,174484,4,0
+82,Death Grips Is Online,Year Of The Snitch,0.522,0.962,6,-4.814,1,0.0765,0.00388,0.0528,0.415,146.392,audio_features,211662,4,0
+83,Flies,Year Of The Snitch,0.404,0.932,7,-5.932,1,0.42,0.0437,1.15E-05,0.188,157.042,audio_features,152612,4,1
+84,Black Paint,Year Of The Snitch,0.486,0.995,11,-3.611,1,0.0636,0.0533,0.000298,0.142,117.26,audio_features,228521,4,0
+85,Linda's In Custody,Year Of The Snitch,0.644,0.832,6,-7.656,1,0.0769,0.415,5.92E-05,0.324,91.523,audio_features,210130,4,0
+86,The Horn Section,Year Of The Snitch,0.317,0.947,7,-9.437,1,0.197,0.157,0.722,0.194,114.438,audio_features,91823,3,0
+87,Hahaha,Year Of The Snitch,0.561,0.963,2,-4.833,1,0.0529,0.157,0.209,0.506,128.449,audio_features,214950,4,1
+88,Shitshow,Year Of The Snitch,0.303,0.959,11,-5.385,1,0.224,0.0102,0.0,0.0634,116.586,audio_features,104662,4,0
+89,Streaky,Year Of The Snitch,0.703,0.974,4,-5.406,0,0.21,0.226,0.0,0.634,117.35,audio_features,176157,4,0
+90,Dilemma,Year Of The Snitch,0.361,0.758,0,-5.52,1,0.0699,0.461,1.46E-05,0.0924,150.323,audio_features,233589,4,0
+91,Little Richard,Year Of The Snitch,0.484,0.929,9,-4.552,0,0.119,0.000912,0.0968,0.596,138.36,audio_features,145382,4,0
+92,The Fear,Year Of The Snitch,0.312,0.878,8,-6.301,1,0.0475,0.589,0.0,0.349,82.632,audio_features,200918,4,1
+93,Outro,Year Of The Snitch,0.091,0.95,2,-8.64,1,0.0727,0.759,0.778,0.332,172.317,audio_features,61477,4,0
+94,Disappointed,Year Of The Snitch,0.5,0.993,2,-3.59,1,0.233,0.00636,1.12E-05,0.154,117.835,audio_features,201174,4,0
+95,Full Moon (Death Classic),Full Moon (Death Classic) - Single,0.423,0.965,1,-1.669,1,0.405,0.162,0.0,0.59,77.187,audio_features,228994,3,0
+96,Guillotine,Guillotine - Single,0.561,0.64,11,-5.042,0,0.287,0.0678,0.000387,0.196,78.464,audio_features,223364,4,1
+97,Interview A,Interview 2016,0.664,0.968,1,-6.063,1,0.176,0.000214,0.637,0.26,117.478,audio_features,290170,4,0
+98,Interview B,Interview 2016,0.416,0.85,6,-7.04,0,0.215,0.00455,0.885,0.408,120.216,audio_features,323708,3,0
+99,Interview C,Interview 2016,0.508,0.858,6,-8.155,0,0.197,0.00144,0.00524,0.886,143.604,audio_features,181573,3,0
